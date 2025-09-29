@@ -1,2 +1,7 @@
 mkdir VC
 git init
+git add .
+git commit -u -m "initial commit"
+git remote add origin https://github.com/salma447105/VC.git
+git branch -M main
+git push origin main
